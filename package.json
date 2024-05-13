@@ -9,7 +9,8 @@
     "RSO",
     "vette",
     "emlez",
-    "samuelkraft"
+    "samuelkraft",
+    "wanghanlun"
   ],
   "license": "MIT",
   "commands": [
@@ -70,6 +71,10 @@
             {
               "title": "Sunset",
               "value": "sunset"
+            },
+            {
+              "title": "Vercel",
+              "value": "vercel"
             }
           ]
         },
